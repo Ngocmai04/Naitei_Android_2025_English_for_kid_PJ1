@@ -1,9 +1,11 @@
 ## Related Tickets
-- [#Task xxxxx: Content](https://edu-redmine.sun-asterisk.vn/issues/xxxx)
+- [#Task 90500: Initialize Project](https://edu-redmine.sun-asterisk.vn/issues/90500)
 ## WHAT
-- 
-## Evidence (Screenshot or Video)
+- Setup MVVM Structure
+- init Firebase
 
+## Evidence (Screenshot or Video)
+![img.png](img.png)
 ## Review Checklist
 
 Category | View Point | Description | Expected Reviewer Answer | Self review | Reviewer2 (name)
