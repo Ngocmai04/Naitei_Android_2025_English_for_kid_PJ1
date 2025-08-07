@@ -5,7 +5,6 @@
 - init Firebase
 
 ## Evidence (Screenshot or Video)
-![img.png](img.png)
 ## Review Checklist
 
 Category | View Point | Description | Expected Reviewer Answer | Self review | Reviewer2 (name)
